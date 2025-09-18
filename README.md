@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🎓 Currently pursuing BE in Computer Science & Engineering at KCG College of Technology (CGPA: 9.36)  
+- 🎓 Currently pursuing BE in Computer Science & Engineering at KCG College of Technology (CGPA: 9.46)  
 - 💻 Skilled in Python, C, C++, React Native (Expo), Firebase, and AI/ML concepts  
 - 🌱 Focused on building impactful projects that blend technology with social good and sustainability  
 - 🚀 Developed an AI-powered food redistribution app to reduce food waste and support communities  

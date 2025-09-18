@@ -36,7 +36,7 @@
 
 ## Let’s Connect!
 
-- LinkedIn: https://www.linkedin.com/in/sangamithra-dharmaraj-8a4092301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn: https://www.linkedin.com/in/sangamithrad25?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Email:dsangu25@gmail.com
 
 Thanks for stopping by! Feel free to explore my repos and reach out. I’m always excited to learn and collaborate.
